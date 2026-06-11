@@ -1,2 +1,4 @@
 # image-caption-generator using deep learning
-VGG16 + LSTMs
+
+- Dataset used : Flickr8K on Kaggle 
+- VGG16 + LSTMs
